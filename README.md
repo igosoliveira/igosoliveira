@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/59512657?v=4"  />
-
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igosoliveira&&count_private=true" alt="igosoliveira" /></p>
 ###
 
 <div align="left">
