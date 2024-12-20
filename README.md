@@ -8,8 +8,7 @@
 </div>
 
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/59512657?v=4"  />
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igosoliveira&&count_private=true" alt="igosoliveira" /></p>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -22,14 +21,3 @@
 </div>
 
 
-
-
-
-
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/igosoliveira/igosoliveira/output/snake.svg" alt="Snake animation" />
-
-###
